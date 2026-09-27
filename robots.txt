@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.jbdgt.cn/sitemap.xml
